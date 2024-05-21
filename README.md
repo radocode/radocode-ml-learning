@@ -9,7 +9,7 @@ Months 1-3:
 
 - Complete introductory courses on Coursera or edX. (I am using educative.io, is similar)
 - Learn Python if necessary. (I am using educative.io, is similar)
-- Start simple projects and participate in beginner Kaggle competitions.
+- Start simple projects and participate in beginner Kaggle competitions. https://www.kaggle.com/radocode
 
 Months 4-6:
 
